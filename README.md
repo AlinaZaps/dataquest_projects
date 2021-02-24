@@ -5,7 +5,7 @@
 Find mobile app profiles that are profitable for the App Store and Google Play markets using Python.
 
 
-## <a href="https://github.com/AlinaZaps/dataquest_projects/tree/main/Exploring Hacker News Posts/Basics.ipynb">Exploring_Hacker_News_Posts</a>
+## <a href="https://github.com/AlinaZaps/dataquest_projects/tree/main/Exploring_Hacker_News_Posts/Basics.ipynb">Exploring Hacker News Posts</a>
 
 Compare different types of posts from Hacker News using Python.
 
