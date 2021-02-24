@@ -1,11 +1,11 @@
 # dataquest_projects
 
-## <a href="https://github.com/AlinaZaps/dataquest_projects/tree/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20PlayMarkets/Basics.ipynb">Profitable App Profiles for the App Store and Google PlayMarkets</a>
+## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20PlayMarkets/apps_analyse.ipynb">Profitable App Profiles for the App Store and Google PlayMarkets</a>
 
 Find mobile app profiles that are profitable for the App Store and Google Play markets using Python.
 
 
-## <a href="https://github.com/AlinaZaps/dataquest_projects/tree/main/Exploring_Hacker_News_Posts/Basics.ipynb">Exploring Hacker News Posts</a>
+## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/Exploring_Hacker_News_Posts/hacker_news.ipynb">Exploring Hacker News Posts</a>
 
 Compare different types of posts from Hacker News using Python.
 
