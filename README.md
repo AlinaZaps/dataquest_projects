@@ -5,9 +5,7 @@
 
 Analysis of crime reports In Boston using SQL queries and data visualization using Pandas, Matplotlib, SeaBorn.
 
-## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/medical_data_analysis/medical_data_analysis.ipynb">
-Relationship Between Variables and Patient Death
-</a>
+## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/medical_data_analysis/medical_data_analysis.ipynb">Relationship Between Variables and Patient Death</a>
 
 Analysis of the impact of various indicators on patient survival using various statistical metrics.
 
