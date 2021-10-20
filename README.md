@@ -1,5 +1,10 @@
 # dataquest_projects
 
+## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/Analyze%20crimes%20in%20Boston/SQL_for_Boston_Crimes_Analysis.ipynb">Analyze crimes in Boston
+</a>
+
+Analysis of crime reports In Boston using SQL queries and data visualization using Pandas, Matplotlib, SeaBorn.
+
 ## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20PlayMarkets/apps_analyse.ipynb">Profitable App Profiles for the App Store and Google PlayMarkets</a>
 
 Find mobile app profiles that are profitable for the App Store and Google Play markets using Python.
