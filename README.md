@@ -5,6 +5,12 @@
 
 Analysis of crime reports In Boston using SQL queries and data visualization using Pandas, Matplotlib, SeaBorn.
 
+## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/medical_data_analysis/medical_data_analysis.ipynb">
+Relationship Between Variables and Patient Death
+</a>
+
+Analysis of the impact of various indicators on patient survival using various statistical metrics.
+
 ## <a href="https://github.com/AlinaZaps/dataquest_projects/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20PlayMarkets/apps_analyse.ipynb">Profitable App Profiles for the App Store and Google PlayMarkets</a>
 
 Find mobile app profiles that are profitable for the App Store and Google Play markets using Python.
